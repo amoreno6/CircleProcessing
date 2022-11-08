@@ -1,9 +1,10 @@
-/**
- * ITEC 2150
- * Created by Adrian Moreno
- * 11/8/2022
- * Recursion example of a circle.
- */
+/** Class: Circle2.pde
+*@author Adrian Moreno
+* Course: ITEC 2150
+* Written: 11/8/2022
+*
+* This class –recursion circle animation
+*/
 
 
 void setup()
